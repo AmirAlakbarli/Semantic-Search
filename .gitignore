@@ -1,0 +1,4 @@
+semantic_search/
+.cache/
+__pycache__/
+.env

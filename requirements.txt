@@ -1,0 +1,18 @@
+# requirements.txt
+
+# Specify individual packages
+numpy
+pandas
+matplotlib
+scikit-learn
+python-dotenv
+spacy
+gensim
+wordcloud
+tensorflow_hub
+sentence_transformers
+cohere
+umap-learn
+altair
+datasets
+annoy
